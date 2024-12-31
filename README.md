@@ -1,4 +1,4 @@
-# awesome-concepts
+# Awesome Concepts
 
 # Insight 🧠
 
