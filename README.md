@@ -14,3 +14,4 @@ A centralized hub for exploring interesting concepts through interactive flash c
 ## Examples
 
 - [AI 2024 Recap](https://issamlaradji.github.io/awesome-concepts/shared/ai_2024_recap.html)
+- [NYE 2024](https://issamlaradji.github.io/awesome-concepts/shared/history_of_nye_celebrations.html)
